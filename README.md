@@ -56,12 +56,9 @@ Special interests include:
 
 | Project | Description | Technologies | Status |
 |---------|-------------|--------------|--------|
-| Project Name | Short description | Python | 🚧 |
-| Project Name | Short description | C# | ✅ |
-| Project Name | Short description | HTML / CSS / JS | 🧪 |
-| Project Name | Short description | Arduino | 🚀 |
-
-> Replace these entries as your projects evolve.
+| SLockT | Realy simple secure password manager | Python | 🏗️ |
+| PainiteLife | A personnal project of a ability tree for real life | C# | 🤔️ |
+| Portfolio | My personal portfolio | HTML / CSS / JS | 🤔️ |
 
 ---
 
@@ -79,4 +76,4 @@ Special interests include:
 
 Feel free to explore my repositories and follow my journey.
 
-> *Always learning. Always building.*
+> *All skills are worth studying.*
