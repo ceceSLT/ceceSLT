@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi there 👋 I'm ceceSLT</h1>
 
 <p align="center">
@@ -81,4 +80,3 @@ Special interests include:
 Feel free to explore my repositories and follow my journey.
 
 > *Always learning. Always building.*
-```
