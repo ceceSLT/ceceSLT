@@ -21,11 +21,11 @@ Currently focused on building reliable applications while expanding my knowledge
 | Language | Experience |
 |----------|------------|
 | Python | ⭐⭐⭐⭐☆ |
+| Arduino (C/C++) | ⭐⭐⭐⭐☆ |
 | HTML | ⭐⭐⭐⭐☆ |
-| CSS | ⭐⭐⭐⭐☆ |
+| CSS | ⭐⭐⭐☆☆ |
 | JavaScript | ⭐⭐⭐☆☆ |
-| C# | ⭐⭐⭐☆☆ |
-| Arduino (C/C++) | ⭐⭐⭐☆☆ |
+| C# | ⭐⭐☆☆☆ |
 
 ---
 
